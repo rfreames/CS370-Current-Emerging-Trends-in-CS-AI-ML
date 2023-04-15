@@ -1,1 +1,1 @@
-# CS370-Current-Emerging-Trends-in-CS-AI-ML-
+# CS370-Current-Emerging-Trends-in-CS-AI-ML
