@@ -7,6 +7,8 @@ For this class, we were given code for a maze environment, experience replay, an
 The aim of the project was to develop a Q-training algorithm using deep-Q learning. 
 The goal of the algorithm was to reach the end of the maze before visiting too many cells, hitting 
 too many walls, or trying to leave the bounds of the maze too many times.
+
+(TreasureMaze.py and GameExperience.py were provided by SNHU)
     
 --Connect your learning from throughout this course to the larger field of computer science:
         -What do computer scientists do and why does it matter?
